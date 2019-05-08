@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ewert Machine Learning Group
-email: alexander.adamlaurence@gmail.com
+title: Ewert Machine Learning
+email: ewerthouse.ml@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ewert Machine Learning is an open study group by Machine Learning students at Ewert House, University of Oxford. 
   We organise weekly discussions on Machine Learning & Applied Mathematics. All are welcome.

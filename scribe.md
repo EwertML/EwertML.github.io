@@ -9,8 +9,8 @@ permalink: /scribe/
 
 # Week 2
 ![img](https://i.imgur.com/G9t8CJq.jpg)
-![img](https://i.imgur.com/bUQOGYd.jpg)
 ![img](https://i.imgur.com/Yb8JDsD.jpg)
+![img](https://i.imgur.com/bUQOGYd.jpg)
 ![img](https://i.imgur.com/UgZX4ta.jpg)
 
 # Week 3

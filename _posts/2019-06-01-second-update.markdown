@@ -15,9 +15,7 @@ I hope you are all doing well. Here's the 2nd update to our study group. Please 
 * [Full Notes](https://github.com/ionescu/Machine_Learning_2019/blob/master/04-Unsupervised_Learning/04-Unsupervised_Learning.md)
 
 ## Week 4 Exercise
-~~~~
-Consider a card game played with a full deck, in which aces have a value of 11, jacks 12, queens 13, kings 14, and all other cards a value of 0. We draw a card at random from the deck. What is its expected value? Define Ω, Event, p and the random variable whose expected value you are computing.
-~~~~
+`Consider a card game played with a full deck, in which aces have a value of 11, jacks 12, queens 13, kings 14, and all other cards a value of 0. We draw a card at random from the deck. What is its expected value? Define Ω, Event, p and the random variable whose expected value you are computing.`
 
 Let's have a crack at this together?
 

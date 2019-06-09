@@ -39,7 +39,7 @@ Don't worry about the price of the tickets. The organisers, exhibitors, and spea
 ## And finally.... A bit of fun from week 3
 For all intents and purposes, a bayesian network to compute the probability of Dr. Ionescu cycling in a good mood and noticing Alex in the market. I may have made a mistake, so please use this opportunity to correct me and suggest improvements to the model!
 
-[!img](https://i.imgur.com/KYC92O3.jpg)
+![img](https://i.imgur.com/KYC92O3.jpg)
 
 See you all next week,
 

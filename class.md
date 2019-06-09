@@ -77,7 +77,7 @@ By the end of this course students will be expected to:
 2.) understand when a problem can be dealt with using machine learning
 
 3.) determine which kind of machine learning algorithm is likely to be appropriate        
-#Assessment methods
+# Assessment methods
 Short Tests
 
 Students must submit a completed [Declaration of Authorship](https://www.conted.ox.ac.uk/mnt/attachments/declaration-of-authorship-form-wc.docx) form at the end of term when submitting your final piece of work. CATS points cannot be awarded without the aforementioned form.

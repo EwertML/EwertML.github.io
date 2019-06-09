@@ -1,17 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Ewert ML!"
-date:   2019-03-25 19:40:38 -0400
+title:  "Study Group Update #1"
+date:   2019-05-18 19:40:38 -0000
 categories: Ewert update
 ---
-Hey everyone,
+Hi everyone,
 
-We're just getting ready up for our first week studying Machine Learning at Ewert House. I hope everyone is as excited as I am.
+Thanks for signing up to the Ewert Machine Learning study group. I realise this is not all of us, but for the ones that are here, I hope we can kick things off.
 
-Currently, I'm glued to the ML talks at Google IO. But fear not, I will be preparing a brief manifesto for what we hope to achieve with Ewert Machine Learning. Yes, this is a study group. But I hope this will be a launch pad for something much more. For example, humans tend to achieve greater goals when they talk together, hence why we have conferences and summits. I hope Ewert ML will embrace collaboration between collegues, embarking on shared projects, competitions, talks, discussions, and journal/reading clubs.
+What's the purpose of the study group?
+* Networking (after the course ends it would be nice to stay in touch!)
+* Projects/Collaborative learning (working on classroom exercises (not homework), and perhaps other extra curricular machine learning projects if we find the time).
+* Discussions, a place to share our thoughts and ideas on the week ahead/prior.
 
-Super excited, but this is just the beginning. 
+How does this work?
+* Weekly emails/threads
+* WhatsApp or Facebook group chat?
+* Meet at Rewley House Common Room (it's really lovely, free tea/coffee) at 2pm after lunch every Saturday?
 
-See you this weekend.
+As this is a group for all of us, I would love to know your suggestions and how you would like this to work for you.
 
-Alex
+Let me know what you think and see you next week!
+
+Kind regards,
+
+Alexander

@@ -29,12 +29,12 @@ The general feedback I received was that people would prefer to engage within th
 * [RSS](https://ewertml.github.io/feed.xml)
 
 ## Events
-June 10 Mon-Wed (CogX19) takes place in London. You may be interested this as it's a festival of AI and emerging technology! I'm volunteering there for the morning shifts, so if you're in, do say hi! More info: https://cogx.co/
+June 10 Mon-Wed (CogX19) takes place in London. You may be interested this as it's a festival of AI and emerging technology! I'm volunteering there for the morning shifts, so if you're in, do say hi! [More info](https://cogx.co/)
 
 Don't worry about the price of the tickets. The organisers, exhibitors, and speakers are giving away free tickets if you search around Twitter for public promotions. Here's a few I found:
-1. https://ti.to/cogx/2019/discount/345w345ilhjkio3kjqh5l4k_FRIENDINVITE
-2. https://ti.to/cogx/2019/discount/CX19WOWEXPO
-3. https://ti.to/cogx/2019/discount/CX19BernardMarrExpo
+1. [345w345ilhjkio3kjqh5l4k_FRIENDINVITE](https://ti.to/cogx/2019/discount/345w345ilhjkio3kjqh5l4k_FRIENDINVITE)
+2. [CX19WOWEXPO](https://ti.to/cogx/2019/discount/CX19WOWEXPO)
+3. [CX19BernardMarrExpo](https://ti.to/cogx/2019/discount/CX19BernardMarrExpo)
 
 ## And finally.... A bit of fun from week 3
 For all intents and purposes, a bayesian network to compute the probability of Dr. Ionescu cycling in a good mood and noticing Alex in the market. I may have made a mistake, so please use this opportunity to correct me and suggest improvements to the model!

@@ -3,6 +3,9 @@ layout: page
 title: Class
 permalink: /class/
 ---
+Course code: O18P763MAW
+Dates: 11 May 2019 - 06 Jul 2019
+Contact: ppweekly@conted.ox.ac.uk / +44 (0)1865 280900
 
 # Overview
 

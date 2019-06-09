@@ -19,9 +19,9 @@ permalink: /scribe/
 ![img](https://i.imgur.com/pS0vjYh.jpg)
 
 # Week 4
-![img]()
-![img]()
-![img]()
+![img](https://i.imgur.com/CFWsN6U.jpg)
+![img](https://i.imgur.com/SCi5VzA.jpg)
+![img](https://i.imgur.com/3ZRueTE.jpg)
 
 # Week 5
 ![img]()

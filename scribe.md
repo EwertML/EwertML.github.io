@@ -24,7 +24,8 @@ permalink: /scribe/
 ![img](https://i.imgur.com/3ZRueTE.jpg)
 
 # Week 5
-![img]()
+![img](https://i.imgur.com/cXibFnZ.jpg)
+![img](https://i.imgur.com/tv2Gpgv.jpg)
 
 # Week 6
 ![img]()

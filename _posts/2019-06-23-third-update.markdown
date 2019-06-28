@@ -23,6 +23,12 @@ I thought about combining Neural Networks 1 and 2 lecture for this study group u
 
 * [(Stochastic) Gradient Descent Algorithm](https://www.youtube.com/watch?v=nhqo0u1a6fw)
 
+* [Backpropagation Algorithm](https://hmkcode.github.io/ai/backpropagation-step-by-step/)
+
+* [Matrix Multiplication Calculator](http://matrix.reshish.com/multiplication.php/)
+
+* [Matrix Add/Subtraction Calculator](http://matrix.reshish.com/add&sub.php/)
+
 * [Application to Neural Networks](https://www.mladdict.com/neural-network-simulator)
 
 * [This is a really excellent video (and channel) on neural networks](https://www.youtube.com/watch?v=aircAruvnKk)

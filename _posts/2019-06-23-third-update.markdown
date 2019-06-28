@@ -35,7 +35,7 @@ I thought about combining Neural Networks 1 and 2 lecture for this study group u
 
 ## Event
 
-It's the UCL Gatsby Computational Neuroscience Unit's 21st birthday and they're spending the day with a fascinating range of talks. Gatsby is a world-famous centre that is at the heart of AI research. Moreover, Google's DeepMind was founded by some of their PhD graduates. RSVP: https://www.eventbrite.co.uk/e/gatsby-computational-neuroscience-unit-21st-birthday-event-tickets-62708198911
+It's the UCL Gatsby Computational Neuroscience Unit's 21st birthday and they're spending the day with a fascinating range of talks. Gatsby is a world-famous centre that is at the heart of AI research. Moreover, Google's DeepMind was founded by some of their PhD graduates. RSVP: (https://www.eventbrite.co.uk/e/gatsby-computational-neuroscience-unit-21st-birthday-event-tickets-62708198911)
 
 ## Finally... Today is a special day
 

@@ -33,7 +33,7 @@ permalink: /scribe/
 ![img](https://i.imgur.com/TpgHcrQ.jpg)
 
 # Week 7
-![img](https://i.imgur.com/undefined.jpg)
+![img](https://i.imgur.com/HZN6BUl.jpg)
 
 # Week 8
 ![img]()
